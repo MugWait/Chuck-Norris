@@ -1,0 +1,11 @@
+body{
+    background-color: gainsboro;
+    margin: 10rem 5rem 10rem 30rem;
+}
+
+
+.jockes-container{
+    background-color: white;
+    padding: 1rem;
+    width: 400px;
+}
